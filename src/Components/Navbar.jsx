@@ -19,7 +19,7 @@ const Navbar = () => {
                     <li className="hover:text-orange-500 cursor-pointer">Pages ▾</li>
                 </ul>
                 <button className="bg-orange-500 text-white px-5 py-2 rounded-full text-sm font-semibold shadow hover:bg-orange-600 transition">
-                    
+                    Let's Talk
                 </button>
             </div>
         </>
